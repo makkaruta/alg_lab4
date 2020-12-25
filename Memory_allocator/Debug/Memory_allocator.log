@@ -1,0 +1,19 @@
+﻿  Source.cpp
+C:\Users\Makkaruta\source\repos\Alg_4\MemoryAllocator\FSA.h(52,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makkaruta\source\repos\Alg_4\MemoryAllocator\FSA.h(67,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makkaruta\source\repos\Alg_4\MemoryAllocator\FSA.h(106,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makkaruta\source\repos\Alg_4\MemoryAllocator\FSA.h(117,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makkaruta\source\repos\Alg_4\MemoryAllocator\FSA.h(147,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makkaruta\source\repos\Alg_4\Coalesce_allocation\CA.h(52,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makkaruta\source\repos\Alg_4\Coalesce_allocation\CA.h(186,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makkaruta\source\repos\Alg_4\Coalesce_allocation\CA.h(213,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makkaruta\source\repos\Alg_4\Memory_allocator\MemoryAllocator.h(84,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makkaruta\source\repos\Alg_4\Memory_allocator\MemoryAllocator.h(95,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makkaruta\source\repos\Alg_4\Memory_allocator\MemoryAllocator.h(106,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makkaruta\source\repos\Alg_4\Memory_allocator\MemoryAllocator.h(117,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makkaruta\source\repos\Alg_4\Memory_allocator\MemoryAllocator.h(128,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makkaruta\source\repos\Alg_4\Memory_allocator\MemoryAllocator.h(139,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makkaruta\source\repos\Alg_4\Memory_allocator\MemoryAllocator.h(150,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makkaruta\source\repos\Alg_4\Memory_allocator\MemoryAllocator.h(158,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makkaruta\source\repos\Alg_4\Memory_allocator\MemoryAllocator.h(199,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Memory_allocator.vcxproj -> C:\Users\Makkaruta\source\repos\Alg_4\Debug\Memory_allocator.exe

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Makkaruta\source\repos\Alg_4\Coalesce_allocation\CA.h(35,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makkaruta\source\repos\Alg_4\Coalesce_allocation\CA.h(157,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Coalesce_allocation.vcxproj -> C:\Users\Makkaruta\source\repos\Alg_4\Debug\Coalesce_allocation.exe

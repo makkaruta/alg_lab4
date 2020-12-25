@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Makkaruta\source\repos\Alg_4\MemoryAllocator\Fixed_size_allocation.h(28,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makkaruta\source\repos\Alg_4\MemoryAllocator\Fixed_size_allocation.h(34,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makkaruta\source\repos\Alg_4\MemoryAllocator\Fixed_size_allocation.h(61,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makkaruta\source\repos\Alg_4\MemoryAllocator\Source.cpp(10,20): warning C4018: <: несоответствие типов со знаком и без знака
+  MemoryAllocator.vcxproj -> C:\Users\Makkaruta\source\repos\Alg_4\Debug\MemoryAllocator.exe
